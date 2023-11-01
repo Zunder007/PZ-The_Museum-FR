@@ -1,0 +1,10 @@
+ItemName_FR = {
+	ItemName_Base.Museum_Jacket_01 = "Veste de garde de musée",
+	ItemName_Crown.Hat_Crown1 = "Couronne",
+	ItemName_Crown.Hat_Crown2 = "Couronne fantaisie",
+	ItemName_Union.Hat_Union = "Chapeau de l'Union",
+	ItemName_Union.Hat_UnionCowboy = "Chapeau d'officier de l'Union",
+	ItemName_Union.Jacket_Union = "Veste de l'Union",
+	ItemName_Union.Jacket_UnionRank = "Veste d'officier de l'Union",
+	ItemName_Union.Trousers_Union = "Pantalon de l'Union",
+}
